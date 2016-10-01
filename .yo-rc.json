@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Performance Profiling for V8",
+    "packageVersion": "0.0.0",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "fhinkel",
+    "githubRepository": "PerformanceProfiling"
+  }
+}

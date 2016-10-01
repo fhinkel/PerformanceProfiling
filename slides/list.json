@@ -1,0 +1,22 @@
+[
+    "index.md",
+    "abstract.md",
+    "optimization-warning.md",
+    "js-speed.md",
+    "vm-basics.md",
+    "dynamically-types.md",
+    "bounds-check.md",
+    "gc.md",
+    "js-speed-rainbow.md",
+    "jit-basic.md",
+    "vm-jit.md",
+    "jit-optimization-1.md",
+    "vm-optimization.md",
+    "hidden-classes.md",
+    "inspect.md",
+    "inspect-bailout.md",
+    "ic-explorer.md",
+    "inline-cache.md",
+    "optimization-warning.md",
+    "thank-you.md"
+]
