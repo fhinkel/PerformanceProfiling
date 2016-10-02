@@ -1,7 +1,7 @@
 ##  --trace-opt
 
 ```
-$ node --trace-opt plus\.js 
+$ node --trace-opt plus.js 
 [disabled optimization for 0x1765ac1df661 <SharedFunctionInfo NativeModule.compile>, reason: TryFinallyStatement]
 [disabled optimization for 0xa8a6eaf7271 <SharedFunctionInfo createUnsafeBuffer>, reason: TryFinallyStatement]
 [didn't find optimized code in optimized code map for 0x133c1f20b809 <SharedFunctionInfo>]

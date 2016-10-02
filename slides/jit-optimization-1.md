@@ -3,5 +3,5 @@
 Look at your scripts with tracing output. 
 
 ```sh
---trace-opt --trace-deopt 
+node --trace-opt --trace-deopt index.js
 ```

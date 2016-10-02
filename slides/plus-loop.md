@@ -1,4 +1,4 @@
-##  --trace-opt
+##  Optimization based on type
 
 ```js
 function plus(a, b) { return a + b; }

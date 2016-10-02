@@ -8,17 +8,17 @@
     "js-speed-rainbow.md",
     "vm-basics.md",
     "jit-basic.md",
+    "vm-optimization.md",
     "vm-jit.md",
+    "jit-optimization-1.md",
     "plus-loop.md",
     "plus-loop-trace-opt.md",
     "plus-loop.md",
-    "jit-optimization-1.md",
-    "vm-optimization.md",
+    "plus-loop-trace-deopt.md",
     "node-debug.md",
     "node-debug-trace.md",
     "inline-cache.md",
     "ic-explorer.md",
     "optimization-warning.md",
-    "thank-you.md",
-    "plus-loop-trace-deopt.md"
+    "thank-you.md"
 ]
