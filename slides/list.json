@@ -47,6 +47,7 @@
     },
     "node-debug-trace.md",
     "inline-cache.md",
+    "inline-cache-trace.md",
     {
         "attr": {
             "data-background": "resources/images/ice-type.png"
