@@ -1,3 +1,6 @@
-##  ic-explorer
+##  Profile V8
 
-This is a new Markdown slide
+* `--trace-*`, see `$ node --v8-options`
+* `--inspect` for Chrome DevTools
+* CPU profile in Devtools
+* IC Explorer in `v8/tools/ic-explorer.html`
