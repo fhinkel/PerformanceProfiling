@@ -31,11 +31,11 @@
             "data-background": "resources/images/debug-live-edit.png"
         }
     },
+    "node-debug-canary.md",
     "node-debug-trace.md",
     "inline-cache.md",
     "ic-explorer.md",
     "optimization-warning.md",
     "thank-you.md",
-    "node-debug-canary.md",
     "node-debug-canary-edited.md"
 ]
