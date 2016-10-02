@@ -1,3 +1,7 @@
-##  Premature optimization is the root of all evil
+##  Premature optimization is the root of all evil!
 
-![Twitter logo](./resources/images/Twitter_bird_logo_2012.svg)@fhinkel franzih@chromium.org
+<img src="./resources/images/twitter-logo.png" width="3%"
+ style="border:none; display:inline; float:left"> 
+ <div style="float:left">@fhinkel</div> 
+
+franzih@chromium.org
