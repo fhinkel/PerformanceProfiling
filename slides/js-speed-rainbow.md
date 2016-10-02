@@ -1,1 +1,1 @@
-![Dodge with rainbow](./resources/images/doge-rainbow.png)
+![Dodge with rainbow](./resources/images/dodge-rainbow.png)
