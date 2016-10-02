@@ -12,6 +12,8 @@ npm install -g bower grunt
 bower install
 grunt serve
 grunt deploy
+npm install -g generator-reveal
+npm install -g yo
 ```
 
 Create new slides with
@@ -19,3 +21,4 @@ Create new slides with
 yo reveal:slide "Slide Title" --markdown
 yo reveal:slide "Slide Title" --markdown --notes
 ```
+Made with https://github.com/slara/generator-reveal.
