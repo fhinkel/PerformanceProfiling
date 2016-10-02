@@ -11,13 +11,10 @@
     "vm-jit.md",
     "jit-optimization-1.md",
     "vm-optimization.md",
-    "hidden-classes.md",
-    "inspect.md",
-    "inspect-bailout.md",
-    "ic-explorer.md",
-    "inline-cache.md",
-    "optimization-warning.md",
-    "thank-you.md",
     "node-debug.md",
-    "node-debug-trace.md"
+    "node-debug-trace.md",
+    "inline-cache.md",
+    "ic-explorer.md",
+    "optimization-warning.md",
+    "thank-you.md"
 ]
