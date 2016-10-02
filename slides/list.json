@@ -9,6 +9,9 @@
     "vm-basics.md",
     "jit-basic.md",
     "vm-jit.md",
+    "plus-loop.md",
+    "plus-loop-trace-opt.md",
+    "plus-loop.md",
     "jit-optimization-1.md",
     "vm-optimization.md",
     "node-debug.md",
@@ -16,5 +19,6 @@
     "inline-cache.md",
     "ic-explorer.md",
     "optimization-warning.md",
-    "thank-you.md"
+    "thank-you.md",
+    "plus-loop-trace-deopt.md"
 ]
