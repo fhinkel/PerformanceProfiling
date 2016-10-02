@@ -1,4 +1,4 @@
-##  jit optimization 1
+## Trace Optimizations
 
 Look at your scripts with tracing output. 
 

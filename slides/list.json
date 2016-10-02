@@ -32,6 +32,16 @@
         }
     },
     "node-debug-canary.md",
+    {
+        "attr": {
+            "data-background": "resources/images/profile-start.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/images/profile-stop.png"
+        }
+    },
     "node-debug-trace.md",
     "inline-cache.md",
     "ic-explorer.md",
