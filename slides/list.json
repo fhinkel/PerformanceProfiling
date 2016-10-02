@@ -1,6 +1,5 @@
 [
     "index.md",
-    "abstract.md",
     "optimization-warning.md",
     "js-speed.md",
     "dynamically-types.md",
@@ -44,8 +43,17 @@
     },
     "node-debug-trace.md",
     "inline-cache.md",
+    {
+        "attr": {
+            "data-background": "resources/images/ice-type.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/images/ice-state.png"
+        }
+    },
     "ic-explorer.md",
     "optimization-warning.md",
-    "thank-you.md",
-    "node-debug-canary-edited.md"
+    "thank-you.md"
 ]
