@@ -4,7 +4,11 @@
     "js-speed.md",
     "dynamically-types.md",
     "gc.md",
-    "js-speed-rainbow.md",
+    {
+        "attr": {
+            "data-background": "resources/images/dodge-rainbow.png"
+        }
+    },
     "vm-basics.md",
     "jit-basic.md",
     "vm-optimization.md",

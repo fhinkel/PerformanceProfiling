@@ -5,3 +5,5 @@ dist
 .sass-cache
 /index.html
 .idea/*
+.DS_Store
+resources/.DS_Store
