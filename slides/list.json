@@ -57,6 +57,22 @@
             "data-background": "resources/images/ice-state.png"
         }
     },
+    "ice-load.md",
+    {
+        "attr": {
+            "data-background": "resources/images/ice-polymorphic.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/images/ice-poly-key.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/images/ice-megamorphic.png"
+        }
+    },
     "summary.md",
     "optimization-warning.md",
     "thank-you.md"
