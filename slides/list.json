@@ -11,8 +11,36 @@
     },
     "vm-basics.md",
     "jit-basic.md",
-    "vm-optimization.md",
+    "inline-cache.md",
+    "inline-cache-trace.md",
+    {
+        "attr": {
+            "data-background": "resources/images/ice-type.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/images/ice-state.png"
+        }
+    },
+    "ice-load.md",
+    {
+        "attr": {
+            "data-background": "resources/images/ice-polymorphic.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/images/ice-poly-key.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "resources/images/ice-megamorphic.png"
+        }
+    },
     "vm-jit.md",
+    "vm-optimization.md",
     "jit-optimization-1.md",
     "plus-loop.md",
     "plus-loop-trace-opt.md",
@@ -45,35 +73,12 @@
             "data-background": "resources/images/profile-stop.png"
         }
     },
-    "node-debug-trace.md",
-    "inline-cache.md",
-    "inline-cache-trace.md",
     {
         "attr": {
-            "data-background": "resources/images/ice-type.png"
+            "data-background": "resources/images/TypeScriptProfile.png"
         }
     },
-    {
-        "attr": {
-            "data-background": "resources/images/ice-state.png"
-        }
-    },
-    "ice-load.md",
-    {
-        "attr": {
-            "data-background": "resources/images/ice-polymorphic.png"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "resources/images/ice-poly-key.png"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "resources/images/ice-megamorphic.png"
-        }
-    },
+
     "summary.md",
     "thank-you.md"
 ]
