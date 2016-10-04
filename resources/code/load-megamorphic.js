@@ -3,26 +3,19 @@ function load(obj) {
 }
 
 var obj = {};
-for(var i = 0; i < 10000; i++) {
-  load(obj);
-}
+load(obj);
 
-obj.a = 3;
-for(var i = 0; i < 10000; i++) {
-  load(obj);
-}
+obj.a = 0;
+load(obj);
 
-obj.b = 'b';
-for(var i = 0; i < 10000; i++) {
-  load(obj);
-}
+obj.b = 0;
+load(obj);
 
-obj.c = [2];
-for(var i = 0; i < 10000; i++) {
-  load(obj);
-}
+obj.c = 0;
+load(obj);
 
-obj.d = {};
-for(var i = 0; i < 10000; i++) {
-  load(obj);
-}
+obj.d = 0;
+load(obj);
+
+obj.e = 0; // 5 different shapes
+load(obj);
