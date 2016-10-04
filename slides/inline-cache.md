@@ -1,6 +1,6 @@
 ##  Inline Caches
 
-Fast path to quickly to quickly do a dynamic operation. 
+Fast path to quickly do a dynamic operation. 
 
 
 ICs can have different states: 
