@@ -3,21 +3,16 @@ function load(obj) {
 }
 
 var obj = {};
-for(var i = 0; i < 10000; i++) {
-  load(obj);
-}
+load(obj);
 
-obj.a = 3;
-for(var i = 0; i < 10000; i++) {
-  load(obj);
-}
+obj.a = undefined; // change the shape of obj
+load(obj);
 
-obj.b = 'b';
-for(var i = 0; i < 10000; i++) {
-  load(obj);
-}
+obj.b = undefined; // change the shape again
+load(obj);
 
-obj.c = [2];
-for(var i = 0; i < 10000; i++) {
-  load(obj);
-}
+obj.c = undefined; // change the shape again
+load(obj);
+
+obj.d = undefined; // change the shape again
+load(obj);
