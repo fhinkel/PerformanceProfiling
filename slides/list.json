@@ -1,6 +1,11 @@
 [
     "index.md",
     "optimization-warning.md",
+    {
+        "attr": {
+            "data-background": "resources/images/TypeScriptProfile.png"
+        }
+    },
     "js-speed.md",
     "dynamically-types.md",
     "gc.md",
@@ -11,6 +16,7 @@
     },
     "vm-basics.md",
     "jit-basic.md",
+    "property-access.md",
     "inline-cache.md",
     "inline-cache-trace.md",
     {
@@ -78,7 +84,6 @@
             "data-background": "resources/images/TypeScriptProfile.png"
         }
     },
-
     "summary.md",
     "thank-you.md"
 ]
