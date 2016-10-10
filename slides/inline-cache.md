@@ -1,7 +1,8 @@
 ##  Inline Caches
 
-Fast path to quickly do a dynamic operation. 
+Fast path for property access. 
 
+Cache the fast path for "similar" objects at call site. 
 
 ICs can have different states: 
 * monomorphic: 1 kind of object
