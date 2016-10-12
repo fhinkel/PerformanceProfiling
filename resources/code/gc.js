@@ -3,7 +3,13 @@ function Point(x, y) {
   this.x = x;
   this.y = y;
 }
+
+count = 0;
 function distance(p1, p2) {
+    // count++;
+    // if (count === 4) {
+    //     p1.a = 42;
+    // }
   const dx = p1.x - p2.x;
   const dy = p1.y - p2.y;
   return Math.sqrt(dx * dx + dy * dy);
@@ -13,6 +19,11 @@ function distance(p1, p2) {
 function distanceToOrigin(x, y) {
   const origin = new Point(0, 0);
   const point = new Point(x, y);
+    count++;
+    if (count === 4) {
+        point.a = 42;
+    }
+
   return distance(point, origin);
 }
 
@@ -28,7 +39,7 @@ print(distanceToOrigin(42, 24));
 print("--- After optimized ---");
 
 // Manually trigger GC.
-gc();
+// gc();
 
 // Let's see again.
 print(distanceToOrigin(2, 2));
