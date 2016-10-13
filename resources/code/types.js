@@ -6,4 +6,4 @@ var obj = {
     y: 1
 };
 
-obj.z = 1;
+delete obj.x;
