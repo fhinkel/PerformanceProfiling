@@ -1,3 +1,5 @@
+
+
 function load(obj) {
   return obj.x;
 }
