@@ -7,3 +7,4 @@ var obj = {
 };
 
 delete obj.x;
+obj.z = 1;
