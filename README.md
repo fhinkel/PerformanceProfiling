@@ -4,4 +4,4 @@ Do you care about performance? Memory leaks, megamorphic cache misses, and deopt
 
 [HTML slides from ScriptConf '17](https://fhinkel.github.io/PerformanceProfiling).
 
-[Video's from ScriptConf](https://www.youtube.com/channel/UCVbaJU4SUrQrrNs820aZAfQ).
+[Video from ScriptConf](https://www.youtube.com/channel/UCVbaJU4SUrQrrNs820aZAfQ).
